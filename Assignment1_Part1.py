@@ -27,22 +27,3 @@ def test_list_divide():
 if __name__ == "__main__":
     test_list_divide()
     print("All tests passed.")
-
-
-# In[29]:
-
-
-
-
-
-# In[30]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
