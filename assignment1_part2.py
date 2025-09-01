@@ -22,10 +22,3 @@ def main() -> None:
     book2.display()
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-
