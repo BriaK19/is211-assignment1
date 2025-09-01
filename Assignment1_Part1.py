@@ -32,13 +32,13 @@ if __name__ == "__main__":
 # In[29]:
 
 
-get_ipython().system('ls')
+
 
 
 # In[30]:
 
 
-get_ipython().system('pwd')
+
 
 
 # In[ ]:
